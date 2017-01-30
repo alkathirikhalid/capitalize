@@ -13,7 +13,7 @@ A pure java convenience utility class to format words, it can be used in any jav
 <li> Capitalize.firstLetter("hello world") = "Hello world"</li>
 </ul>
 </p>
-<p>Capitalizes first letters of a string. Only the first character of each word in the string is changed to uppercase.
+<p>Capitalizes all first letters of a string. Only the first character of each word in the string is changed to uppercase.
 <ul>
 <li> Capitalize.allFirstLetters(null)          = null</li>
 <li> Capitalize.allFirstLetters("")            = ""</li>
