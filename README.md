@@ -54,6 +54,12 @@ dependencies {
 	</dependency>
   ```
   
+# Further Resources
+<ul>
+<li>Document download: https://github.com/alkathirikhalid/capitalize/releases/download/v1.01/apidocs.zip</li>
+<li>Jar download: https://github.com/alkathirikhalid/capitalize/releases/download/v1.01/Capitalize-v1.01.jar</li>
+</ul>
+  
 # License
 
 Copyright 2016 Al-Kathiri Khalid www.alkathirikhalid.com
